@@ -1,15 +1,19 @@
-# Macropad
+# What is Macropad
 Macropad is a hardware project that allows you to bind keys to do certain tasks on your PC
 
 # Why
-Because it's a cool project and its also very usefuL!
+I built Macropad as it's a really cool project and its also very useful because i needed one anyway.
+
+# How To Use?
+Each button is programmed to do a certain task on your device, you can also change layers so that each button's programmed task is changed to another task.
+You can also use the Rotary Encoder to change the volume of your device, And there's an OLED Display that shows you what your pressed button did!
 
 # Components
 This project uses the following:
-- SEEDUINO-XIAO MCU
-- 4 Tactile Switches
-- Rotary Encoder Switch
-- 128x32 OLED Display
+- **SEEDUINO-XIAO MCU**
+- **4 Tactile Switches**
+- **Rotary Encoder Switch**
+- **128x32 OLED Display**
 
 # Schematic, PCB, 3D Model, and Zine!
 
