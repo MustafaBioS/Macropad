@@ -21,5 +21,7 @@ This project uses the following:
 <img width="789" height="449" alt="image" src="https://github.com/user-attachments/assets/246237f9-0cc8-44b1-a2bf-6323bd7b6557" />
 
 ## 3D Model
+<img width="1236" height="727" alt="image" src="https://github.com/user-attachments/assets/82895426-72a1-416a-a414-256d6219130c" />
 
 ## Zine
+<img width="420" height="595" alt="A5 - 1 (3)" src="https://github.com/user-attachments/assets/64680be9-fdea-44e0-aafa-ac476dc657f4" />
