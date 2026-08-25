@@ -38,4 +38,4 @@ This project uses the following:
 <img width="1236" height="727" alt="image" src="https://github.com/user-attachments/assets/82895426-72a1-416a-a414-256d6219130c" />
 
 ## Zine
-<img width="420" height="595" alt="A5 - 1 (6)" src="https://github.com/user-attachments/assets/45bc5b9c-6f76-4d31-a6e9-98e86eed93b1" />
+<img width="420" height="595" alt="zine" src="https://github.com/user-attachments/assets/9656b86c-fafb-4596-bfb4-1b03b51c6532" />
